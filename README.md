@@ -1,2 +1,2 @@
 # Tugas-PBO
-Pengumpulan tugas mata kuliah Pemrograman Berorientasi Objek
+Pengumpulan tugas pertama mata kuliah Pemrograman Berorientasi Objek
