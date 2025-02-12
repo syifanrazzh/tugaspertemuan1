@@ -1,2 +1,2 @@
 # Tugas-PBO
-Pengumpulan tugas pertama mata kuliah Pemrograman Berorientasi Objek
+Syifa Nur Azizah Suhud - 2305056
